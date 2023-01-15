@@ -80,7 +80,8 @@ function draw () {
     (ball_y>block_y)){
     
      ball_dy=-ball_dy;
-     block=fill(0,0,0);
+     block_height=0;
+     block_height=0;
     console.log("YOU WIN");
   
     vis=0;
